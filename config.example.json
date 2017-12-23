@@ -1,0 +1,14 @@
+{
+	"openwrt": {
+		"http": {
+			"uri": "http://192.168.2.2/ubus"
+		},
+		"username": "x",
+		"password": "x"
+	},
+	"spauthproxy": {
+		"http": {
+			"uri": "http://127.0.0.1:1337/data/wlan.json"
+		}
+	}
+}
